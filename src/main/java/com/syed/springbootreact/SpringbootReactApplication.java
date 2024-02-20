@@ -31,6 +31,7 @@ public class SpringbootReactApplication implements CommandLineRunner{
 //		employee1.setLastName("Cena");
 //		employee1.setEmailId("cena@gmail.com");
 //		employeeRepository.save(employee1);
+syestem.out.println("hiii");
 	}
 
 }
